@@ -1,32 +1,39 @@
 # Muhammad Ali Sultan
 
-**AI Engineer · Computer Vision · 3D**
+**AI Engineer · Computer Vision · 3D Spatial Computing**
 
 ---
 
-### Stack
+### Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,opencv,blender,unreal,docker,fastapi,git,github,linux&perline=11" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,opencv,blender,unreal,docker,fastapi,git,linux&perline=10" />
 </p>
 
 ---
 
 ### Research
 
-* **Brain Tumor Detection** — ResNet50 & EfficientNet
-* **Eye Disease Classification** — IEEE ICOT 2024
-* **Applied AI** — Computer Vision · NLP · Deep Learning
+**Computer Vision**
+
+* Brain Tumor Detection — ResNet50 / EfficientNet
+* Eye Disease Classification — IEEE ICOT 2024
+
+**AI / ML**
+
+* Deep Learning
+* Computer Vision
+* NLP
+* Predictive Modeling
 
 ---
 
-### Links
+### Find Me
 
-[LinkedIn](https://www.linkedin.com/in/muhammad-ali-sultans/) · [GitHub](https://github.com/sultan7557)
+<a href="https://www.linkedin.com/in/muhammad-ali-sultans/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
 
 ---
 
-### Currently Debugging
-
-> It works on my machine.
-> Unfortunately, production isn't my machine.
+<sub>Most bugs are just undocumented features.</sub>
